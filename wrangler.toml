@@ -1,0 +1,6 @@
+name = "tea"
+type = "javascript"
+account_id = "a6ed9bb347b37322532c0182e92daa42"
+workers_dev = true
+route = ""
+zone_id = ""
